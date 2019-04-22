@@ -20,15 +20,15 @@ input, button {
 }
 @font-face {
   font-family: "ProximaNovaRegular";
-  src: url(fonts/ProximaNovaCondensedRegular.otf);
+  src: url(./ProximaNovaCondensedRegular.otf);
 }
 @font-face {
   font-family: "ProximaNovaThin";
-  src: url(fonts/ProximaNovaThin.ttf);
+  src: url(./ProximaNovaThin.ttf);
 }
 @font-face {
   font-family: "ProximaNovaItalicThin";
-  src: url(fonts/Proxima-Nova-Thin-It.otf);
+  src: url(./Proxima-Nova-Thin-It.otf);
 }
 .banner {
   background-image: url(images/head-bg.jpg);
