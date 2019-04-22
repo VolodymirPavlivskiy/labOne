@@ -237,7 +237,7 @@ input, button {
   font-size: 2rem;
 }
 .screen {
-  background-image: url(images/screen.png);
+  background-image: url(./screen.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -258,7 +258,7 @@ input, button {
 }
 .telegramBot {
   text-align: center;
-  background-image: url(images/tg_bg.png);
+  background-image: url(./tg_bg.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -354,7 +354,7 @@ input, button {
 }
 .pay {
   margin-top: 50px;
-  background-image: url(images/pay.jpg);
+  background-image: url(./pay.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
